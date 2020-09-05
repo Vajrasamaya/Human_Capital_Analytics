@@ -16,3 +16,7 @@ Days Late in the Last 30 days, integer, as an attendance metric.
 
 ### Data Source
 https://www.kaggle.com/rhuebner/human-resources-data-set?select=HRDataset_v13.csv
+
+### Feature Dictionary
+
+![](dictionary.png)
