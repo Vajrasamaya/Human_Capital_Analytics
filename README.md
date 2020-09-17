@@ -20,3 +20,6 @@ https://www.kaggle.com/rhuebner/human-resources-data-set?select=HRDataset_v13.cs
 ### Feature Dictionary
 
 ![](dictionary.png)
+
+### NOTE: To view jupyter notebook html based content fully rendered, please use the nbviewer link:
+https://nbviewer.jupyter.org/github/Vajrasamaya/Human_Capital_Analytics/tree/master/
