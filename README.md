@@ -23,3 +23,16 @@ https://www.kaggle.com/rhuebner/human-resources-data-set?select=HRDataset_v13.cs
 
 ### NOTE: To view jupyter notebook html based content fully rendered, please use the nbviewer link:
 https://nbviewer.jupyter.org/github/Vajrasamaya/Human_Capital_Analytics/tree/master/
+
+
+## Visualizations
+
+### Based on Sex
+
+![](Images/Mean_Performance_Sex.png)
+
+![](Images/Employee_Count_Sex.png)
+Not only are mean performance scores higher for women, but women constitute a majority of employees.
+
+![](Images/Mean_Rate_of_Pay_Sex.png)
+And yet, despite better performance reviews for women, and despite the fact that more employees in the company are women, higher pay is awarded to men.
