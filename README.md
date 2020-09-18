@@ -36,3 +36,17 @@ Not only are mean performance scores higher for women, but women constitute a ma
 
 ![](Images/Mean_Rate_of_Pay_Sex.png)
 And yet, despite better performance reviews for women, and despite the fact that more employees in the company are women, higher pay is awarded to men.
+
+
+### Based on Racial Description
+![](Images/Employee_Satisfaction_Race)
+
+![](Images/Employee_Engagement_Race)
+
+
+![](Images/Mean_Performance_Race)
+
+![](Images/Employee_Count_Race)
+
+
+![](Images/Mean_Pay_Race)
