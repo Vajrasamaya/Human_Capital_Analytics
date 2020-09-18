@@ -39,14 +39,14 @@ And yet, despite better performance reviews for women, and despite the fact that
 
 
 ### Based on Racial Description
-![](Images/Employee_Satisfaction_Race)
+![](Images/Employee_Satisfaction_Race.png)
 
-![](Images/Employee_Engagement_Race)
-
-
-![](Images/Mean_Performance_Race)
-
-![](Images/Employee_Count_Race)
+![](Images/Employee_Engagement_Race.png)
 
 
-![](Images/Mean_Pay_Race)
+![](Images/Mean_Performance_Race.png)
+
+![](Images/Employee_Count_Race.png)
+
+
+![](Images/Mean_Pay_Race.png)
