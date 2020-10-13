@@ -52,6 +52,6 @@ When we review the counts, the story told is quite different.  Here we can see t
 
 What might this mean?  It's hard to say.  My first thought was that this was a significant indicator of discriminatory hiring practices because the company has employees in 28 states.  However, by looking at employee counts by state, we can see an overwhelming concentration of employees in one state; this might indicate that the distribution of employees by race is simply a result of of the demographics of that state.
 
-![](Employee_Count_State.png)
+![](Images/Employee_Count_State.png)
 
 ![](Images/Mean_Pay_Race.png)
