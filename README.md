@@ -54,4 +54,8 @@ What might this mean?  It's hard to say.  My first thought was that this was a s
 
 ![](Images/Employee_Count_State.png)
 
+Of the 310 employees we have data for, 250 are employed in the state of Massachusetts.  Massa
+
+![](Images/Census_Data_Race.png)
+
 ![](Images/Mean_Pay_Race.png)
