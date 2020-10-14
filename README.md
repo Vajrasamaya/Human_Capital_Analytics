@@ -48,14 +48,19 @@ And yet, despite better performance reviews for women, and despite the fact that
 Surprisingly, Performance scores for native americans are signifantly higher that any other racial category.  This is especially peculiar because the mean performance score range for the rest of the racial groups is .25 whereas the mean performance score for Native americans is .5 higher than the next group, white employees.  There doesn't appear to be a reason for this except for the presence of an outlier. So I look at employee counts by race.
 
 ![](Images/Employee_Count_Race.png)
-When we review the counts, the story told is quite different.  Here we can see that there simply are very few native Americans who are employees, totalling four.  By contrast, there are 193 White employees and 57 black employees. Consequently, the mean score for native Americans is affected to a far greater extent by an individual employees score than is a member of other groups.  
+When we review the counts, the story told is quite different.  Here we can see that there simply are very few native Americans who are employees, totaling four.  By contrast, there are 193 White employees and 57 black employees. Consequently, the mean score for native Americans is affected to a far greater extent by an individual employees score than is a member of other groups.  
 
-What might this mean?  It's hard to say.  My first thought was that this was a significant indicator of discriminatory hiring practices because the company has employees in 28 states.  However, by looking at employee counts by state, we can see an overwhelming concentration of employees in one state; this might indicate that the distribution of employees by race is simply a result of of the demographics of that state.
+What might this mean?  It's hard to say.  My first thought was that this was a significant indicator of discriminatory hiring practices because the company has employees in 28 states.  However, by looking at employee counts by state, we can see an overwhelming concentration of employees in one state; this might indicate that the distribution of employees by race is simply a result of of the demographics of that state. So taking a look, we find the following:
 
 ![](Images/Employee_Count_State.png)
 
-Of the 310 employees we have data for, 250 are employed in the state of Massachusetts.  Massa
+Of the 310 employees we have data for, 250 are employed in the state of Massachusetts.  
 
 ![](Images/Census_Data_Race.png)
+
+According to census data, 71.5% of people living int he state of Massachusetts are White, 11.8% Hispanic, 7% Black, 6.6% Asian and .1% American Indian.
+According to our employee data, 62.25% of employees are white, 18.38% are black, 10.96% Asian, and 1.29% Hispanic and American Indian, respectively.  Additionally, it should be noted that 5.8% identified with two or more races.  For these cases, the data doesn't report which descriptions are being identified with so it's difficult to include this in the analysis.
+
+![](Images/Employee_Data_Compared_to_Census.png)
 
 ![](Images/Mean_Pay_Race.png)
